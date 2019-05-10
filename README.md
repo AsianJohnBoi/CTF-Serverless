@@ -1,4 +1,4 @@
-# Clouds and API
+# CTF Serverless Challenge
 
 A CTF challenge to introduce beginners to APIs, HTTP request methods and cloud computing. The challenge is a serverless architecture that uses AWS. An S3 bucket contains a public text file to guide the user to the next stage. The user is then required to run a POST request to an API gateway that returns a message from the Lambda function. This final message contains the flag (encrypted or not). 
 
