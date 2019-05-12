@@ -6,7 +6,7 @@ A CTF challenge to introduce beginners to APIs, HTTP request methods and cloud c
 
 The first stage of this challenge may too easy. You could provide the link to the S3 bucket folder without any  read permissions and make people find the text file. E.g.
 
-"There's a 'firstmessage.txt' file inside my S3 bucket https://s3-ap-northeast-2.amazon.com/challenge"
+"There's a file inside my S3 bucket, what's it called? https://s3-ap-northeast-2.amazon.com/challenge"
 
 
 
